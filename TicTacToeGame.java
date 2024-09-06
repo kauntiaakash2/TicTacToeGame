@@ -39,7 +39,6 @@ public class TicTacToeGame extends JFrame {
     }
 
     private void checkForWin() {
-        // TO DO: implement win condition checking
     }
 
     public static void main(String[] args) {
